@@ -85,3 +85,7 @@ git stash pop
 git log --oneline --graph --all
 git status
 ```
+
+```# end of the task
+
+```
