@@ -1,6 +1,6 @@
 # IDS_Class_Assignment 
 
-# STUDENT TASK MANAGER
+# STUDENT TASK MANAGEMENT
 
 A pair-based collaborative project designed to demonstrate structured version control, efficient GitHub workflows, conflict resolution, and teamwork over a 5-day cycle.
 
